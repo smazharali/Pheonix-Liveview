@@ -13,5 +13,7 @@ Installation:
    sudo dpkg -i esl-erlang_24.2.1-1~ubuntu~xenial_amd64.deb
    
 Verification:
-
+    Missing 'mix'
+    
+    erl --version
    
